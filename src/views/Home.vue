@@ -11,12 +11,12 @@
   </div>
 </template>
 
-<script> // https://rickandmortyapi.com/documentation
-
+<script>
 import ListCharacters from '@/components/ListCharacters.vue'
 import FilterByStatus from '@/components/FilterByStatus.vue'
 import FilterByName from '@/components/FilterByName.vue'
 // import HelloWorld from '@/components/HelloWorld.vue'
+// https://rickandmortyapi.com/documentation
 
 export default {
   name: 'Home',

@@ -4,7 +4,7 @@
     <HelloWorld msg="Welcome to Your Vue.js App"/>
   </div> -->
   <div>
-    <h1>Rick and Morty - Home.vue</h1>
+    <h1>Rick and Morty</h1>
     <FilterByStatus />
     <FilterByName />
     <ListCharacters />

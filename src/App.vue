@@ -1,8 +1,8 @@
 <template>
-  <div id="nav">
+  <!-- <div id="nav">
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link>
-  </div>
+  </div> -->
   <router-view/>
 </template>
 
@@ -14,7 +14,7 @@
   text-align: center;
   color: #2c3e50;
 } */
-#nav {
+/* #nav {
   padding: 30px;
 
   a {
@@ -25,7 +25,7 @@
       color: #42b983;
     }
   }
-}
+} */
 :root {
   --background-body: #24282F;
   --background-card: #3C3E44;
